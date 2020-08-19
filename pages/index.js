@@ -19,6 +19,8 @@ export default function Lesson01() {
         </p>
         <div>
           <Link href="/post/lesson01"><a>Let's go! Lesson 01 => </a></Link>
+          <p></p>
+          <Link href="/learning-hooks"><a>Let's go! Learning Hooks => </a></Link>
         </div>
 
         <div className="grid">
